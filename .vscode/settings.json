@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\Julie\\OneDrive\\Documents\\GitHub\\Age_DrinkingRestriction",
+            "binaryPath": "c:\\Users\\Julie\\OneDrive\\Documents\\GitHub\\Age_DrinkingRestriction\\programmet-debug.exe",
+            "binaryArgs": []
+        }
+    ]
+}
